@@ -1,4 +1,4 @@
-//Time Complexity: O(om)
+//Time Complexity: O(mn)
 //Space Complexity: O(n)
 
 
