@@ -1,5 +1,5 @@
 # Distinct-Subsequences
-My clean JS Solution using Dynamic Programming
+My O(m*n) solution using Dynamic Programming
 
 "Given two strings s and t, return the number of distinct subsequences of s which equals t.
 
